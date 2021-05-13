@@ -82,9 +82,8 @@
 ```
 
 ### Event
- - URL Image : **`https://asgard-api.herokuapp.com/images/events/`**
-
- - #### All Event
+- URL Image : **`https://asgard-api.herokuapp.com/images/events/`**
+- #### All Event
     Request
     - Method: **GET**
     - Endpoint: **`/event`**
@@ -270,7 +269,6 @@
 }
 ```
 
-<br>
 ### Transaction
 - URL Image : **`https://asgard-api.herokuapp.com/images/bukti_pembayaran/`**
 - #### All Transaction
