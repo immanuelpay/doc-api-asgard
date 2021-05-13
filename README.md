@@ -82,8 +82,9 @@
 ```
 
 ### Event
-- URL Image : **`https://asgard-api.herokuapp.com/images/events/`**
-- #### All Event
+ - URL Image : **`https://asgard-api.herokuapp.com/images/events/`**
+
+ - #### All Event
     Request
     - Method: **GET**
     - Endpoint: **`/event`**
